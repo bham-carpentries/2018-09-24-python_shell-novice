@@ -1,4 +1,4 @@
-This is the version taught at the [Programming with Python, including The Unix Shell, and Version Control with Git]https://bham-carpentries.github.io/2018-09-24-python/) workshop on Monday 24th and Tuesday 25th September
+This is the version taught at the [Programming with Python, including The Unix Shell, and Version Control with Git](https://bham-carpentries.github.io/2018-09-24-python/) workshop on Monday 24th and Tuesday 25th September
 
 shell-novice
 ============
