@@ -1,6 +1,4 @@
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/) 
- [![Slack Status](https://img.shields.io/badge/Slack_Channel-swc--shell-E01563.svg)](https://swcarpentry.slack.com/messages/C9X3XTHJ8) 
-
+This is the version taught at the [Programming with Python, including The Unix Shell, and Version Control with Git]https://bham-carpentries.github.io/2018-09-24-python/) workshop on Monday 24th and Tuesday 25th September
 
 shell-novice
 ============
